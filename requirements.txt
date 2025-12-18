@@ -1,0 +1,7 @@
+# Linux CLI SocialRecon - Fixed Dependencies
+aiohttp>=3.8.0
+argparse>=1.4.0
+rich>=13.0.0
+colorama>=0.4.6
+termcolor>=1.1.0
+asyncio-throttle>=1.0.0
